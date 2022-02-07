@@ -4,7 +4,6 @@
   - [Authors](#authors) 
   - [About](#about) 
   - [Overview](#overview) 
-  - [Abstract](#abstract)
   - [Files](#files)
   - [License](#license)
 
